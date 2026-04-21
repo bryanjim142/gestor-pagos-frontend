@@ -25,6 +25,10 @@ cd Gestor-Pagos-Frontend
 npm install
 npm run dev
 
+## Vista previa
+
+![Screenshot](docs/screenshot.png)
+
 ## Repositorio relacionado
 
 - 🔗 [Gestor-Pagos-Backend](https://github.com/bryanjim142/Gestor-Pagos-Backend)
